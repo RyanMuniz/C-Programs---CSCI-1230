@@ -3,7 +3,7 @@
 // Email: rmuniz15@student.cnm.edu
 // Date: September 13, 2026
 // Class: C Programming
-// Assignment: Week 2
+// Assignment: Lab 2
 // Purpose: Demonstrate use of different variable types, operations, formatting,
 and special characters.
 // File Name: "exercise.c"
