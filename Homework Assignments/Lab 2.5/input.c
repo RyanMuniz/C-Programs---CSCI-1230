@@ -1,4 +1,4 @@
-/********************************************************************************
+/******************************************************************************
 // Name: Ryan Muniz
 // Email: rmuniz15@student.cnm.edu
 // Date: September 13, 2026
@@ -10,7 +10,7 @@ conversions, and output formatting
 
 Note: Code Template and comments to begin assignment was provided by 
 my professor Guadalupe Torres 
-********************************************************************************/
+*******************************************************************************/
 
 #include <stdio.h>
 
