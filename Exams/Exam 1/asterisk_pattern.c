@@ -29,6 +29,6 @@ int main(void) {
         // Moves to the next line after each row is completed
         printf("\n");
     }
-    // Indicates succesful completion of program
+    // Indicates successful completion of program
     return 0;
 }
