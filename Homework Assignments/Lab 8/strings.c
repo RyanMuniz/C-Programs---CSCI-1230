@@ -1,7 +1,7 @@
 /*************************************************************************
 // Name: Ryan Muniz
 // Email: rmuniz15@student.cnm.edu
-// Date: October 12, 2026
+// Date: October 8, 2026
 // Class: C Programming
 // Assignment: Lab 8
 // Purpose:
